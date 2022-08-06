@@ -1,2 +1,2 @@
 # Menu_Modularizado
- Menu feito baseado no conceito de modularização.
+ Através do menu é possível visualizar os registros existentes, adicionar um registro novo, e sair do sistema.
